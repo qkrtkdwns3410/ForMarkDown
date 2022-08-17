@@ -63,10 +63,11 @@
 
    > Interpreter 방식
    > - 한 줄 한 줄 단위로 컴파일한다는 의미
-       > ![](https://velog.velcdn.com/images/qkrtkdwns3410/post/d0c9e5ce-3a1a-45a8-9bf5-afe0f649be89/image.png)
 
+   ![](https://velog.velcdn.com/images/qkrtkdwns3410/post/d0c9e5ce-3a1a-45a8-9bf5-afe0f649be89/image.png)
+    
     - Native Method Interface(JNI)
-        - JVM에 의해 실행되는 코드 중 **네이티브로 실행하는 것이 있다면** 
+        - JVM에 의해 실행되는 코드 중 **네이티브로 실행하는 것이 있다면**
         - 해당 네이티브 코드를 호출하거나 호출 될 수 있도록 만든 일종의 프레임워크
     - Native Method Libraries
         - 네이티브 메서드 실행에 필요한 라이브러리
